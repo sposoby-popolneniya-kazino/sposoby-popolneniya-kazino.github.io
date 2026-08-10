@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: sposoby-popolneniya-kazino.github.io
+Sitemap: https://sposoby-popolneniya-kazino.github.io/sitemap.xml
